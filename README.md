@@ -5,7 +5,7 @@
 
 ## SKILLS
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-![javascript badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&color=3776AB)
+![javascript badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&color=F0DB4F)
 
 <!--
 **Keemeeone/Keemeeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
