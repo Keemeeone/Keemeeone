@@ -5,6 +5,7 @@
 
 <div align=center>
 ## SKILLS
+</div>
 ![java badge](https://img.shields.io/badge/-Java-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=FFA518)
 ![C badge](https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=C&logoColor=white&color=283593)
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
@@ -22,7 +23,7 @@
 ![Figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=FF7262)
 ![Git badge](https://img.shields.io/badge/-Git-%23F7DF1E?style=flat-square&logo=Git&logoColor=white&color=F1502F)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=ffffe0)
-</div>
+
 
 
 
