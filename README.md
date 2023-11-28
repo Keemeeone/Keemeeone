@@ -1,6 +1,4 @@
 # Hi there 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Heewon's%20Github!&fontSize=90&animation=twinkling)
 
 ## SKILLS
@@ -32,9 +30,7 @@
 ![Git badge](https://img.shields.io/badge/-Git-%23F7DF1E?style=flat-square&logo=Git&logoColor=white&color=F1502F)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=ffffe0)
 
-
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Keemeeone/Keemeeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
