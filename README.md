@@ -3,9 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Heewon's%20Github!&fontSize=90&animation=twinkling)
 
-<div align=center>
 ## SKILLS
-</div>
 ![java badge](https://img.shields.io/badge/-Java-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=FFA518)
 ![C badge](https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=C&logoColor=white&color=283593)
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
