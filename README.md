@@ -32,7 +32,7 @@
 
 ### ETC 🔢
 ![Git badge](https://img.shields.io/badge/-Git-%23F7DF1E?style=flat-square&logo=Git&logoColor=white&color=F1502F)
-![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=ffffe0)
+![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=000000)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%23FF573C&title_bg=%237CBAFD&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
