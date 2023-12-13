@@ -3,6 +3,8 @@
 # Hi there 👋 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=100&section=header&text=Heewon's%20Github!&fontSize=90&animation=twinkling)
 
+[![Heewon's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=Keemeeone&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### 💬 Software developer with a passion for crafting innovative and user-centric applications. Adept at collaborating with diverse teams and steering projects from inception to completion. Seeking to leverage my extensive experience in various industries and beyond to solve complex problems and deliver exceptional results.
 
 ## SKILLS💡
@@ -36,8 +38,6 @@
 ### Project Management and Version Control 📝
 ![Jira badge](https://img.shields.io/badge/-Jira-%23F7DF1E?style=flat-square&logo=jirasoftware&logoColor=white&color=0146b3)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=000000)
-
-[![Heewon's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=Keemeeone&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%23FF573C&title_bg=%237CBAFD&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
