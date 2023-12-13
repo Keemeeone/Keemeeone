@@ -37,7 +37,7 @@
 ![Jira badge](https://img.shields.io/badge/-Jira-%23F7DF1E?style=flat-square&logo=jirasoftware&logoColor=white&color=0146b3)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=000000)
 
-
+[![Heewon's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=Keemeeone&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%23FF573C&title_bg=%237CBAFD&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
