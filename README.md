@@ -40,7 +40,14 @@
 ![GitHub badge](https://img.shields.io/badge/-GitHub-%23F7DF1E?style=flat-square&logo=GitHub&logoColor=white&color=000000)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeemeeone&count_bg=%23FF573C&title_bg=%237CBAFD&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### Check out my [portfolio](https://keemeeone.github.io/) for more details!
+
+![portfolio1](https://github.com/Keemeeone/Keemeeone/assets/112414685/24c20e92-f926-4935-a011-81316f87adba)
+
 </div>
+
+
 
 <!--
 **Keemeeone/Keemeeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
